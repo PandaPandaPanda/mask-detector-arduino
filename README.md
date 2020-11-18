@@ -15,3 +15,11 @@ This library has been tested with AI Thinker [ESP32-CAM](http://wiki.ai-thinker.
 3. In *Tools* - *Board* menu, select **ESP32 Wrover Module** to take advantage of 4MB external PSRAM.
    Internal RAM is insufficient to support high resolution.
 4. Check out the [examples](examples/) for how to use.
+
+## Video Instructions
+https://www.youtube.com/watch?v=92UBFhPJQJ8&ab_channel=Iknowpython
+
+## Integration Milestone
+- Camera [Done]
+- Servo  []
+- Sound Detector  []
